@@ -16,3 +16,5 @@ used.
 ```Presentation of the problem, modelling with
 Linear or Integer Linear Programming, Solving and its variants
 problem
+```
+![image](https://user-images.githubusercontent.com/119429929/224491857-c3459b4b-704a-4e92-a943-64ca2204cf14.png)
