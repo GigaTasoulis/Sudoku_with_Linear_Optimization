@@ -13,8 +13,7 @@ and compare them. At the end, the literature that
 used.
 
 ## Sudoku 
-```Presentation of the problem, modelling with
-Linear or Integer Linear Programming, Solving and its variants
-problem
-```
+### Presentation of the problem/Modelling with Linear or Integer Linear Programming/Solving and its variants
+
+
 ![image](https://user-images.githubusercontent.com/119429929/224491857-c3459b4b-704a-4e92-a943-64ca2204cf14.png)
